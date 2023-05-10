@@ -2,3 +2,4 @@
 # Maria Clara Dos Santos
 ## pensamento computacional
 - Paulo Leminski
+- ** professora Drielle **
